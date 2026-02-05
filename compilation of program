@@ -1,5 +1,0 @@
-# Compile the shell with warnings enabled
-gcc -Wall myshell.c -o myshell
-
-# Run the shell
-./myshell
