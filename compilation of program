@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -std=c99 myshell.c -o myshell
